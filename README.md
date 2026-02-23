@@ -1,2 +1,3 @@
-# .github
-The GitHub organization for Hackerspace NTNU
+# Hackerspace NTNU
+
+GitHub configuration files for [Hackerspace NTNU](https://hackerspace-ntnu.no)
