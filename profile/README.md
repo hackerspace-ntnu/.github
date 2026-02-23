@@ -1,6 +1,11 @@
 ## Hackerspace NTNU's GitHub Organization
 
-![Hackerspace Logo](./images/hackerspace.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/hackerspace-light.png" width="75%">
+    <img src="./images/hackerspace-dark.png" alt="Hackerspace Logo" width="75%">
+  </picture>
+</p>
 
 Welcome!
 
